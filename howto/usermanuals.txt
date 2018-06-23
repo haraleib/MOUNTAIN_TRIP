@@ -1,0 +1,4 @@
+foward = "W-Key"
+backward ="S-Key"
+reset = "R-Key"
+for up, down, left, right -> leftclick on mouse and move mouse
